@@ -12,7 +12,7 @@
 
 style="color:blue;">
 
-<div style="display: flex;
+<section style="display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
@@ -26,4 +26,4 @@ style="color:blue;">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</section>
