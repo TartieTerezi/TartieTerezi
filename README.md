@@ -2,11 +2,11 @@
  
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/TartieTerezi?pet-id=654241006083502039"
-    width="1000"
-    height="140"
-  />
+<img
+  src="https://render.gitanimals.org/farms/TartieTerezi"
+  width="100"
+  height="300"
+/>
 </a>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=TartieTerezi&border_radius=4.2&locale=fr)](https://git.io/streak-stats)
