@@ -2,42 +2,21 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                        .FlexContainer {
-    display: flex;
-    
-    justify-content: center;     
-    align-content: center;
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
 
-    background-color: #bbdefb;
-    height: 100%;
-    padding: 15px;
-    gap: 5px;
-}
-
-.FlexContainer div {
-   background: #ffecb3;
-    border: 3px solid #ffcc80;
-    border-radius: 5px;
-    padding: 8px;
-}
-
-
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
             </style>
-            <h1>coucou</h1>
-            <div class="FlexContainer">
-<div>
-
-  
-  <img src="https://streak-stats.demolab.com?user=TartieTerezi&amp"
-       ref="https://git.io/streak-stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=TartieTerezi&amp"/>
-
-</div>
-<div>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&amp" ref="https://github.com/anuraghazra/github-readme-stats"/>
-
-</div>
+            <h1>HELLO WORLD!</h1>
+        </div>
     </foreignObject>
 </svg>
