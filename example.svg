@@ -2,36 +2,41 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            .FlexContainer {
+                        .FlexContainer {
     display: flex;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: flex-start;
-    align-content: flex-start;
-    width: 65%;
-    background-color: #2f1d58;
-    height: 80vh;
-    overflow: auto;
-    flex-direction: row;
+    
+    justify-content: center;     
+    align-content: center;
+
+    background-color: #bbdefb;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
 }
 
 .FlexContainer div {
-    width: 100px;
-    height: 100px;
-    margin: 5px;
-    background-color: lightblue;
+   background: #ffecb3;
+    border: 3px solid #ffcc80;
+    border-radius: 5px;
+    padding: 8px;
 }
+
+
             </style>
 
             <div class="FlexContainer">
 <div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TartieTerezi&amp;border_radius=4.2&amp;locale=fr)](https://git.io/streak-stats) ![Tartie's GitHub stats](https://github-readme-stats.vercel.app/api?username=TartieTerezi&amp;show_icons=true&amp;theme=solarized-light)
+  
+  <img src="https://streak-stats.demolab.com?user=TartieTerezi&amp"
+       ref="https://git.io/streak-stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TartieTerezi&amp"/>
 
 </div>
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&amp;theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&amp" ref="https://github.com/anuraghazra/github-readme-stats"/>
 
 </div>
 </div>
