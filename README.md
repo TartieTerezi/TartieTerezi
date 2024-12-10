@@ -12,7 +12,7 @@
 
 <table>
 	<tr>
-<td>
+<td align="top">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TartieTerezi&amp;border_radius=4.2&amp;locale=fr)](https://git.io/streak-stats) 
 
@@ -20,10 +20,9 @@
 
 </td>
 
-<td>
+<td align="top">
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&amp;theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&amp;theme=solarized-light"/>
 
 </td>
 </tr>
