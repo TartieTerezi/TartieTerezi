@@ -1,5 +1,4 @@
 # TartieTerezi
- 
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -9,25 +8,12 @@
 />
 </a>
   
-
 <table>
 	<tr>
-<td align="top">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TartieTerezi&amp;border_radius=4.2&amp;locale=fr)](https://git.io/streak-stats) 
-
-[![Tartie's GitHub stats](https://github-readme-stats.vercel.app/api?username=TartieTerezi&amp;show_icons=true&amp;theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-
-<td align="top">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&amp;theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-</tr>
+		<td align="top"><img src="https://github-readme-streak-stats-blush-six.vercel.app?user=TartieTerezi&theme=solarized-light&border=EBE1D9&card_width=460" alt="GitHub Streak"/></td>
+		<td align="top"><img src="https://github-readme-stats.vercel.app/api?username=TartieTerezi&amp;show_icons=true&amp;theme=solarized-light"/></td>
+	</tr>
 </table>
-
-
-## ![sample SVG image](example.svg)
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&amp;theme=solarized-light"/>
+</div>
