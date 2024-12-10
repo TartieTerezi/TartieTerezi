@@ -18,7 +18,8 @@ style="color:blue;">
 	justify-content: center;
 	align-items: stretch;
 	align-content: stretch;">
-	<div>
+<div>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=TartieTerezi&border_radius=4.2&locale=fr)](https://git.io/streak-stats)
 
 ![Tartie's GitHub stats](https://github-readme-stats.vercel.app/api?username=TartieTerezi&show_icons=true&theme=solarized-light)
