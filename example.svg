@@ -23,7 +23,8 @@
 
             </style>
               <div class="FlexContainer">
-                  <img src="https://streak-stats.demolab.com?user=TartieTerezi"/>
+                  <image src="https://streak-stats.demolab.com?user=TartieTerezi" alt="GitHub Streak" />
+
 
               </div>
         </div>
