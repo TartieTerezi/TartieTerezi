@@ -10,7 +10,6 @@
 </a>
   
 
-style="color:blue;">
 
 <section style="display: flex;
 	flex-direction: row;
