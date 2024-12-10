@@ -20,8 +20,11 @@
 
 </td>
 
-<td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+<td align="top">
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&amp;theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
 </tr>
 </table>
