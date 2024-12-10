@@ -23,9 +23,13 @@
 <div style=width: 100px;
     height: 100px;
     margin: 5px;
-    background-color: lightblue;">[![GitHub Streak](https://streak-stats.demolab.com?user=TartieTerezi&amp;border_radius=4.2&amp;locale=fr)](https://git.io/streak-stats) ![Tartie's GitHub stats](https://github-readme-stats.vercel.app/api?username=TartieTerezi&amp;show_icons=true&amp;theme=solarized-light)</div>
+    background-color: lightblue;">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TartieTerezi&amp;border_radius=4.2&amp;locale=fr)](https://git.io/streak-stats) ![Tartie's GitHub stats](https://github-readme-stats.vercel.app/api?username=TartieTerezi&amp;show_icons=true&amp;theme=solarized-light)</div>
 <div style="width: 100px;
     height: 100px;
     margin: 5px;
-    background-color: red;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&amp;theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)</div>
+    background-color: red;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TartieTerezi&amp;theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)</div>
 </section>
